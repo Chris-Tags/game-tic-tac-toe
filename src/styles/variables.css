@@ -1,0 +1,13 @@
+:root {
+  --color-text-main: rgb(56, 60, 93);
+  --color-x: rgb(216, 167, 203);
+  --color-o: rgb(167, 216, 200);
+
+  --color-bg-square: rgb(244, 244, 244);
+  --color-border: #000;
+
+  --space-m: 1rem;
+  --space-l: 3rem;
+
+  --radius-s: 0.2em;
+}
